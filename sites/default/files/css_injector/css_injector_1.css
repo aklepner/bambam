@@ -1,0 +1,48 @@
+#section-top {
+  border-top: 10px solid #fff;
+  border-bottom: 0px;
+}
+
+.site-logo img {
+ 
+}
+.topbuttons a {
+  border-style: solid;
+  border-width: 1px;
+  padding: 7px;
+  background-color: #eb2227;
+  color: #fff;
+  text-decoration: none;
+}
+.topbuttons a:hover {
+  background-color: #fff;
+  color: #eb2227;
+}
+.topbuttons li {
+  float: right;
+  padding-left: 10px;
+  text-transform: uppercase;
+}
+.social ul li a{
+  width: 24px;
+  height: 24px;
+  line-height: 24px;
+  text-align: center;
+  font-size: 16px;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  border-radius: 12px;
+  margin: 0px 4px 4px 4px;
+  color: #fff;
+  background-color: #b5b5b5;
+}
+
+@media screen and (max-width: 768px){
+.region-social-top {
+  text-align: right;
+  padding-top: 10px;
+  margin-bottom: -50px;
+  z-index: 20;
+}
+
+}

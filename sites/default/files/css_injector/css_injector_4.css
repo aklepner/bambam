@@ -1,0 +1,21 @@
+.day_program {
+  background-color: #eb2227;
+  font-size: 15px;
+  color: #fff;
+  padding: 30px 60px 15px 0;
+  margin-bottom: 20px;
+
+}
+
+.day_program h3.box-title {
+      color: #fff;
+      font-size: 26px;
+      font-weight: 900;
+}
+.field-name-field-portfolio-media img {
+    max-width: 450px;
+    float: right;
+}
+ul.list-icons >li {
+    font-size: 15px;
+}
